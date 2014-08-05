@@ -20,5 +20,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rake (= 10.3.2)
+  rake
   rspec (= 3.0.0)
