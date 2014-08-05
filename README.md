@@ -1,5 +1,3 @@
-char_sorter
-===========
 # Characters Sorter
 
 ### Input
